@@ -3,7 +3,7 @@ Preliminary implementation of the Eurographics 2024 paper titled "BallMerge: Hig
 
 This is a licensed software and is only for research purposes. If you use, please cite it as follows: "Parakkat AD, Ohrhallinger S, Eisemann E, Memari P. BallMerge: High-quality Fast Surface Reconstruction via Voronoi Balls. In Computer Graphics Forum 2024"
 
-The code uses CGAL and happily.h (included in the repository and is not a property of the authors), and is successfully tested on Mac and Ubuntu.
+The code uses CGAL and happily.h (included in the repository and is not a property of the authors), and is successfully tested on Mac and Ubuntu. A complete and optimized code will soon be available in CGAL.
 
 For license and questions, please contact adparakkat@gmail.com
 
